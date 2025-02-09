@@ -5,3 +5,5 @@ class calculator:
         return a - b
     def multiplicacion(self,a,b):
         return a * b
+    def division(self, a,b):
+        return a / b
